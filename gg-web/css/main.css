@@ -1,0 +1,28 @@
+html, body {
+    margin: 0;
+}
+
+.panel {
+    background-color: tomato;
+    height: 100px;
+    width: 100px;
+}
+
+.line {
+    width: 320px;
+    display: flex;
+    flex-direction: row;
+}
+
+.line1, .line2 {
+    margin-top: 10px;
+}
+
+.s01, .s02, .s11, .s12, .s21, .s22 {
+    margin-left: 10px;
+}
+
+.square {
+    margin: 300px auto;
+    width: 320px;
+}
